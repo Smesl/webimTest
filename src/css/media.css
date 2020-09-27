@@ -1,0 +1,117 @@
+@media (max-width: 1110px) {
+    .nav-left_log-in {
+        font-size: 17px;
+    }
+
+    .menu_link {
+        font-size: 17px;
+    }
+
+    .nav-left_sign-in {
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 993px) {
+    .webim-connection_column__one {
+        padding-right: 30px;    
+    }
+}
+
+@media (max-width: 960px) {
+    .nav-left_log-in {
+        font-size: 15px;
+    }
+
+    .menu_link {
+        font-size: 15px;
+    }
+
+    .nav-left_sign-in {
+        font-size: 15px;
+    }
+
+    .nav-left {
+        padding-left: 10px;
+    }
+}
+
+@media (max-width: 843px) {
+    .header {
+        background: #ffff;
+    }
+
+    .nav-left {
+        display: none;
+    }
+
+    .menu_link {
+        display: none;
+    }
+
+    .header_logo {
+        display: block;
+        margin: 0 auto;
+    }
+    
+    .burger {
+        display: block;
+    }
+}
+
+@media (max-width: 580px) {
+    .installation-html_header, .webim-dashboard_header, .installation_header, .installation_subheader, .webim {
+        text-align: center;
+    }
+
+    .webim_btn__free {
+        margin-right: 0;
+    }
+
+    .installation_header {
+        font-size: 27px;
+    }
+    
+    .webim_header {
+        font-size: 30px;
+    }
+
+    .installation_subheader {
+        padding-bottom: 40px;
+    }
+
+    .webim-dashboard_subheader {
+        text-align: center;
+    }
+
+    .installation-html_link, .webim-dashboard_link {
+        font-size: 20px;
+    }
+
+    .installation-html_paragraph, .webim-dashboard_paragraph {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 450px) {
+    .footer {
+        padding-left: 10px;
+    }
+    
+    .webim-connection_paragraph {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .after-installation_header {
+        text-align: center;
+    }
+
+    .after-installation_item__step {
+        font-size: 21px;
+    }
+
+    .after-installation_img {
+        padding-right: 15px;
+    }
+}

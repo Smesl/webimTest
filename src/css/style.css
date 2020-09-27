@@ -216,6 +216,7 @@ p {
 }
 
 .webim_header {
+    display: none;
     padding-bottom: 45px;
     color: #393e6b;
     font-size: 36px;
@@ -266,6 +267,7 @@ p {
 }
 
 .installation_header {  
+    display: none;
     color: #393e6b;
     font-size: 30px;
     font-weight: 700;

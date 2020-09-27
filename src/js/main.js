@@ -11,3 +11,9 @@ burgerBtn.addEventListener("click", () => {
         navHolder.classList.remove("header__nav-holder-active");
     }
 });
+
+
+$(window).ready(function(){
+    setTimeout ("$('#webim').show('drop');",2000);
+    setTimeout ("$('#installation_header').show('drop');",2000);
+});

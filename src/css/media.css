@@ -41,6 +41,10 @@
         background: #ffff;
     }
 
+    .header_logo {
+        padding-right: 0;
+    }
+
     .nav-left {
         display: none;
     }
@@ -55,12 +59,13 @@
     }
     
     .burger {
+        margin-left: 15px;
         display: block;
     }
 }
 
 @media (max-width: 580px) {
-    .installation-html_header, .webim-dashboard_header, .installation_header, .installation_subheader, .webim {
+    .installation-html_header, .webim-dashboard_header, .installation_header, .installation_subheader, .webim, .after-installation_paragraph {
         text-align: center;
     }
 
